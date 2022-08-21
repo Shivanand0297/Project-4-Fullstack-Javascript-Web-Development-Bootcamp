@@ -1,6 +1,6 @@
 # Fullstack Javascript Web Development Bootcamp (iNeuron)
 ## Name: Shivanand Prajapati
-## Project-4: Web Design Landing Page
+## Project-4: Digital Marketing Homepage
 ### Learnings:
 
 - About margins, image positioning, line height, hover. 
